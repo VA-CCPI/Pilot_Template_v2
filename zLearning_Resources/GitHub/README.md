@@ -11,16 +11,16 @@
         <li>
         <a href="###Step-3:-Cloning-Repository">Cloning Repository</a><ul>
          <li>
-           <a href="###Step-4:-Managing-Repository">Managing Repository</a> <ul>
+          <a href="###Step-4:-Managing-Repository">Managing Repository</a> <ul>
           <li>
         <a href="###Step-5:-Standard-Naming-Conventions">Naming Conventions</a>
         <li>
-          <a href="###Step-6:-Installation">Installation</a>
+         <a href="###Step-6:-Installation">Installation</a>
         <li>
         <a href="###Step-7:-Other-Actions">Other Actions</a>
-        </ul>
-          </li>
-          </ul>
+        
+        </li>
+         
        </ol>
         
  
@@ -55,10 +55,10 @@ https://department-of-veterans-affairs.github.io/github-handbook/guides/onboardi
 https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va </a>
 <li>Cloning an existing GitHub repository will create a full copy on the user’s computer, allowing the user to make edits, </a><ul>
 add, and remove files, and push larger commits locally and easily. </a><ul>
-<li>Changes can be made to the repository directory folders and pushed to the GitHub repository using the command line.  </a> <ul>
+<li>Changes can be made to the repository directory folders and pushed to the GitHub repository using the command line.  </a> <ul> 
 <li>To clone an existing repository:</a> <\ul><li>
 1.On the main page of the GitHub repository, click the iconat the top right of the window. <a/> <\ul><li>
-2.Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line. <a/>
+2.Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line. <a/> <ul>
 
   
 ### Step 4: Managing Repository
@@ -68,10 +68,10 @@ add, and remove files, and push larger commits locally and easily. </a><ul>
 
 ### Step 6: Installation
 #### Github Desktop Installation
-Click on the Software Center on your desktop.
-<img src="https://user-images.githubusercontent.com/105750400/182799638-8b986305-3726-499f-92df-ae319d04c2c6.png" alt="Logo" width="100" height="25">
-  Next, download the GitHub Desktop application and following the instructions displayed from the application once downloaded.
-  <img src="https://user-images.githubusercontent.com/105750400/182800055-dccd42af-a1ba-4c8b-9aa1-f3fde39f74e5.png" alt="Logo" width="50" height="80">
+<li>Click on the Software Center on your desktop.
+<img src="https://user-images.githubusercontent.com/105750400/182799638-8b986305-3726-499f-92df-ae319d04c2c6.png" alt="Logo" width="100" height="25"> <ul>
+  <li>Next, download the GitHub Desktop application and following the instructions displayed from the application once downloaded.
+  <img src="https://user-images.githubusercontent.com/105750400/182800055-dccd42af-a1ba-4c8b-9aa1-f3fde39f74e5.png" alt="Logo" width="50" height="80"> <ul>
 
 #### Git Installation
 
