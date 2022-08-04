@@ -9,15 +9,15 @@
        <li>
         <a href="###Step 2: Creating and Managing Pilot GitHub Teams">Creating and Managing Pilot GitHub Teams</a><\ul>
         <li>
-        <a href="###Step-3:-Cloning-Repository">Cloning Repository</a><ul>
+        <a href="###Step-3:-Cloning-Repository">Cloning Repository</a><\ul>
          <li>
-          <a href="###Step-4:-Managing-Repository">Managing Repository</a> <ul>
+          <a href="###Step-4:-Managing-Repository">Managing Repository</a> <\ul>
           <li>
-        <a href="###Step-5:-Standard-Naming-Conventions">Naming Conventions</a>
+        <a href="###Step-5:-Standard-Naming-Conventions">Naming Conventions</a><\u>
         <li>
-         <a href="###Step-6:-Installation">Installation</a>
+         <a href="###Step-6:-Installation">Installation</a> <\u>
         <li>
-        <a href="###Step-7:-Other-Actions">Other Actions</a>
+        <a href="###Step-7:-Other-Actions">Other Actions</a> <\u>
         
         </li>
          
@@ -39,16 +39,16 @@ https://department-of-veterans-affairs.github.io/github-handbook/guides/onboardi
 
 
 ### Step 2: Creating and Managing Pilot GitHub Teams
-#### Team Types https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx
+#### Team Types https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx <ul>
 ##### Creating Teams </a>
- https://department-of-veterans-affairs.github.io/github-handbook/github-teams-in-the-va
+ https://department-of-veterans-affairs.github.io/github-handbook/github-teams-in-the-va <ul>
  ##### Managing Teams</a>
  <li>Consider Github Account Types
- https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts
+ https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts <ul>
  ##### Separate Duties </a>
- https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va
+ https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va <ul>
  ###### Permissions </a>
- https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions
+ https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions <ul>
 
 
 ### Step 3: Cloning Repository <ul> <ol>
